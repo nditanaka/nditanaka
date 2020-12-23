@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a financial markets analysis app in React Native
+- 🔭 I’m currently working on an app in React Native
 - 🌱 I’m currently learning React Native and Node
 - 👯 I’m looking to collaborate on any side projects: web apps and PWAs esp. but React Native stuff is fun too!
 - 🤔 I’m looking for help with freelance work, and getting remote work.
