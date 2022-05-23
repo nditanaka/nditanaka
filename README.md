@@ -67,7 +67,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
@@ -93,7 +92,8 @@
 
 <br/>  
 
-<!-- <table><tr><td valign="top" width="50%">
+<!--  Github stats starts-->
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nditanaka&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -101,7 +101,23 @@
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nditanaka&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
 
-</td></tr></table>   -->
+</td></tr></table>
+
+<!-- Github stats ends -->
+
+
+<!--  test github stats-->
+<div align="center">
+<table>
+<tr>
+<td width="90%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nditanaka&show_icons=true&background=FFFFFF00&hide_border=true" alt="nditanaka">
+</td>
+</tr>
+</table>
+
+
+<!-- test stats end -->
 
 <br/>  
 
