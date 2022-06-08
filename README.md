@@ -20,6 +20,10 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<div align="center">  
+  <a target="_blank" href="https://www.codewars.com/users/shonacoder/"><img src="https://www.codewars.com/users/shonacoder/badges/small" alt="codewars badge large" /></a>
+</div>
   
 
 ### <div align="center">I'm Tanaka, a full-time front-end software engineer 👨‍💻 </div>  
