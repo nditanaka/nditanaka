@@ -32,7 +32,7 @@
 <!-- - 🔭 I’m currently working on [The Travel App](https://github.com/nditanaka/mern-crud-app)   -->
   
 
-- 🌱 I’m currently learning NodeJS, Express and GCP  
+- 🌱 I’m currently learning about the cloud and containers
   
 
 - ❓ Ask me about anything related to React, React Native, Typescript, AWS and related technologies  
