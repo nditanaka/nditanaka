@@ -22,7 +22,7 @@
 </div>  
 
 <div align="center">  
-  <a target="_blank" href="https://www.codewars.com/users/shonacoder/"><img src="https://www.codewars.com/users/shonacoder/badges/small" alt="codewars badge large" /></a>
+  <a target="_blank" href="https://www.codewars.com/users/shonacoder/"><img src="https://www.codewars.com/users/nditanaka/badges/small" alt="codewars badge large" /></a>
 </div>
   
 
