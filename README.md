@@ -23,7 +23,7 @@
 </div>
   
 
-### <div align="center">I'm Tanaka, a full-time front-end software engineer 👨‍💻 </div>  
+### <div align="center">Hi, I'm Tanaka 👨‍💻 </div>  
   
 
 <!-- - 🔭 I’m currently working on [The Travel App](https://github.com/nditanaka/mern-crud-app)   -->
